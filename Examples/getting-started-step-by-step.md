@@ -1,7 +1,5 @@
 # 手把手入门教学
 
-[TOC]
-
 ## 介绍
 
 下面的例子不完全包括 JSON Schema 能提供的所有限定值，如果想了解更多请访问 <http://json-schema.org/specification.html>。
