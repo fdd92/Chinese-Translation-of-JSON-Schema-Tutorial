@@ -1,0 +1,19 @@
+{
+  "name": "json-schema-learn",
+  "version": "1.0.0",
+  "description": "文档翻译自 [JSON Schema 官方网站](https://json-schema.org/learn/)。",
+  "main": "jfet.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdd92/Chinese-Translation-of-JSON-Schema-Tutorial.git"
+  },
+  "author": "howie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdd92/Chinese-Translation-of-JSON-Schema-Tutorial/issues"
+  },
+  "homepage": "https://github.com/fdd92/Chinese-Translation-of-JSON-Schema-Tutorial#readme"
+}
